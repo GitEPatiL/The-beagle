@@ -1,0 +1,15 @@
+.section-1{
+            border: 1px solid black;
+            margin : 20px;
+            padding: 20px;
+        }
+        .section-2{
+            margin-left: 20px;
+        }
+        a{
+            text-decoration: none;
+        }
+
+        .section-3{
+            margin-left:20px ;
+        }
